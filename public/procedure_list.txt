@@ -1,0 +1,84 @@
+Abdominal Ultrasound (US)
+Arterial Blood Gases
+Arterial Line
+Arthrocentesis
+Bag Vent Mask Ventilation
+Bladder Catheterization
+Bladder Scan
+Burn Debridement
+Cardioversion/Defibrillation
+Central Line Placement
+Chest Compression
+Chest Tube Insertion 
+Closed Reduction Fracture
+Compartment Pressure Measurement
+Cricothyroidotomy
+Cutdown Placement
+CVP Catheter Placement
+Dental Block
+External Cardiac Pacing
+Eye Exam Basic
+Eye Exam Slit Lamp
+Eye Irrigation
+FAST Ultrasound (US)
+Felon/Paronychia Drainage
+Fish Hook Removal
+Foreign Body Removal (Ear)
+Foreign Body Removal (Eye)
+Foreign Body Removal (Nose)
+Foreign Body Removal (Other)
+G-Tube Replacement
+Incision and Drainage (I&D)
+Inguinal Hernia Reduction
+Intraosseous Access and Fluid Administration
+Intravenous (IV) Insertion
+Intravenous Access
+Intubation (RSI) naso/endo
+Laceration Repair
+Laryngo Mask Airway
+Lumbar Puncture (Adult)
+Lumbar Puncture (Pediatric)
+Nailbed Repair
+Nasal Cauterization/Packing
+Nasal Packing Anterior
+Nasal Packing Posterior
+Nasogastric/Dobhoff Tube Placement
+Nerve Block
+N-P Scope
+Open Chest Massage
+Pelvic Ultrasound (US)
+Pericardiocentesis
+Pericentesis
+Peritoneal Lavage
+Procedural Sedation and Analgesia
+Rectal Prolapse Reduction
+Reduction Dislocation
+Resuscitation ADULT Medical Participated
+Resuscitation ADULT Medical Ran
+Resuscitation ADULT Trauma Participated
+Resuscitation ADULT Trauma Ran
+Resuscitation PED Medical Participated
+Resuscitation PED Medical Ran
+Resuscitation PED Trauma Participated
+Resuscitation PED Trauma Ran
+Ring Removal
+Sexual Assult Postpubescent
+Sexual Assult Prepubescent
+SF Transfer
+Soft Tissue Neck Ultrasound (US)
+Splint Placement (Body)
+Splint Placement (Extremity)
+Subungual Foreign Body Removal
+Subungual Hematoma Drainage
+Suprapubic Bladder Aspiration
+Thoracostomy
+Thoracotomy
+Tooth Replacement
+Trach Replacement
+Transvenous Pacing
+Tympanocentesis
+UAC/UVC
+Urinary Catheterization (Female)
+Urinary Catheterization (Male)
+Vaginal Delivery
+Wound Irrigation

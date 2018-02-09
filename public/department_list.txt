@@ -1,0 +1,33 @@
+College of Medicine
+College of Nursing
+College of Dentistry
+College of Pharmacy
+College of Physician Assistants
+College of Respiratory Therapist
+College of Physical Therapist
+College of Medical Assistants
+Anesthesiology
+Cardiology
+Critical Care Medicine
+Emergency Medicine
+Endocrinology
+Gerontology
+Gastroenterology
+Haematolgy
+Internal Medicine
+Nephrology
+Neurology
+Oncology
+Ophthalmology
+Otorhinolaryngology
+Pulmonology
+Primary Care/Family Medicine
+Pediatric Medicine
+Podiatry
+Psychiatry
+Orthopedics
+Rheumatology
+Radiology
+Reproductive Medicine
+Surgery
+Urology
